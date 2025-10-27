@@ -1,13 +1,5 @@
-﻿streamlit==1.25.0
-torch          # Install CPU or GPU build separately if needed (see instructions below)
-transformers==4.35.0
-sentencepiece==0.1.98
-pandas==2.2.0
-nltk==3.8.1
-PyPDF2==3.0.1
-tqdm==4.65.0
-scikit-learn==1.2.2
-python-dotenv==1.0.0
-fpdf==1.7.2
-pdf2image==1.16.3
-Pillow==10.0.0
+﻿streamlit
+transformers==4.33.3
+torch
+sentencepiece
+nltk
