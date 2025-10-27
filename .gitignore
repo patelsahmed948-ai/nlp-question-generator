@@ -1,0 +1,21 @@
+﻿# Python / project
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data & models (don't commit heavy artifacts)
+data/
+models/
+*.pt
+*.bin
+
+# Environment
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
